@@ -5,7 +5,7 @@ Latex code for drawing neural networks for reports and presentation. Have a look
 
 ## TODO
 
-- [X] Python interfaz
+- [X] Python interface
 - [ ] Add easy legend functionality
 - [ ] Add more layer shapes like TruncatedPyramid, 2DSheet etc
 - [ ] Add examples for RNN and likes.
